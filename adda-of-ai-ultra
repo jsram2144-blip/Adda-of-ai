@@ -1,0 +1,7 @@
+adda-of-ai-ultra/
+├─ package.json
+├─ index.html
+└─ src/
+   ├─ main.jsx
+   ├─ App.jsx
+   └─ index.css
