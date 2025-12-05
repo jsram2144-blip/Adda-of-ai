@@ -7,7 +7,7 @@ import {
 } from 'lucide-react';
 
 // --- GEMINI API UTILITIES ---
-const apiKey = ""; // <-- यहाँ अपनी Gemini API key डालो (या छोड़ दो अगर नहीं चाहिए)
+const apiKey = ""; AIzaSyAdn05aCTMm-k1gfBVGqitIUe_I2jSRV70
 
 // callGemini: साधारण POST wrapper (यदि apiKey खाली है तो mock response देगा)
 const callGemini = async (prompt, systemInstruction = "") => {
